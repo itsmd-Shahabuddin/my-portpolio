@@ -103,9 +103,8 @@ nav .menu a{
    max-width: 585px;
    vertical-align: middle;
 }
-#about{
+#about, #skills,#resume{
     padding-top:130px;
-
 
 }
 #about .about-container{
@@ -128,9 +127,7 @@ nav .menu a{
 .about-info .info-card h4{
     font-size:20px;
 }
-#skills{
-    padding-top:130px;  
-}
+
 #skills .skills-container{
     width:71%;
     max-width:1140px;
@@ -160,3 +157,8 @@ nav .menu a{
     color: #757575;
     line-height: 28px;
 }
+#resume .resume-container{
+    width:71%;
+    max-width:1140px;
+    margin: 0px auto;
+} 
